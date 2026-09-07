@@ -1,0 +1,6 @@
+.nuxt
+.output
+.data
+coverage
+bun.lock
+public

@@ -1,0 +1,4 @@
+{
+  "$comment": "Files left out of coverage on purpose. Give every entry a reason, so the decision stays visible in the pull request report. Wiring with no logic of its own belongs here. Anything that makes a decision does not.",
+  "files": []
+}

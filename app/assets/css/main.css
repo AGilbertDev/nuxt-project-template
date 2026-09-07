@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+@import '@nuxt/ui';
+
+/* The type scale and the palette ramps live here, and nowhere else, so a
+   rebrand is one edit. Semantic tokens carry them into the components. */
+@theme static {
+  --font-sans: 'Hanken Grotesk', ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  font-size: var(--text-lg);
+}

@@ -1,0 +1,9 @@
+{
+  "app": {
+    "title": "New project",
+    "tagline": "The starting point for my personal projects."
+  },
+  "nav": {
+    "toggleLocale": "Français"
+  }
+}

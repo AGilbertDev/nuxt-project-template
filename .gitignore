@@ -1,0 +1,32 @@
+# Nuxt dev and build output
+.nuxt
+.nitro
+.output
+.data
+.cache
+dist
+
+# Dependencies
+node_modules
+
+# Tests
+coverage
+.test-report
+
+# Logs
+logs
+*.log
+
+# Misc
+.DS_Store
+.fleet
+.idea
+.vercel
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# Claude, local only
+.claude/settings.local.json
