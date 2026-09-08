@@ -2,7 +2,7 @@
 
 The starting point for my personal Nuxt projects. Create a repository from this template and the first commit already has the stack, the tooling, the tests, the CI report, and the Claude Code workflow wired in.
 
-> Published for viewing and reference only. It is not open source. See [License](#license).
+> Mine, published so the work can be read and tried. It is not open source. The licence permits running it to evaluate my work, and nothing beyond that. See [License](#license).
 
 ## Start a project from it
 
@@ -46,4 +46,4 @@ docs/specs/ one spec per feature, written by the pipeline
 
 ## License
 
-All rights reserved. This code is published for viewing and reference only, and is not open source. See [LICENSE](./LICENSE).
+All rights reserved, with one narrow permission. Anyone may install and run it as published to evaluate my work. That covers running it and nothing else, so not adopting it in your own projects, not adapting it, and not redistributing it. See [LICENSE](./LICENSE).
